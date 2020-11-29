@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Safety App</string>
+    <string name="google_map_key">AIzaSyAKUo7Tm7um62NIXHG8s3yyqM8RD0as9Pk</string>
+    <string name="title_activity_s_o_s_message">Map</string>
+</resources>
